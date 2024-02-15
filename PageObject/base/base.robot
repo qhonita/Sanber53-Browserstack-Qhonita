@@ -9,8 +9,8 @@ ${BROWSERSTACK_PLATFORM_NAME}                 Android
 ${BROWSERSTACK_PLATFORM_VERSION}              13.0
 ${BROWSERSTACK_DEVICE_NAME}                   Samsung Galaxy S23
 ${BROWSERSTACK_APP}                           bs://54c449f6d085d36f7985d0d771434c1dabf07f65
-${BROWSERSTACK_JOB_NAME}                      
-${BROWSERSTACK_BUILD_NAME}                    
+${BROWSERSTACK_JOB_NAME}                      RobotFramework
+${BROWSERSTACK_BUILD_NAME}                    single_test
 
 *** Keywords ***
 Open Browserstack Application
